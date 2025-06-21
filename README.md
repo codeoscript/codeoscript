@@ -37,9 +37,9 @@ I focus on **developer experience**, **efficiency**, and **defensive coding**.
 ### 📫 Reach Me
 
 - GitHub: [@codeoscript](https://github.com/codeoscript)
-- Tebex: `https://codeo.tebex.io/`
+- Tebex: [Codeo Tebex](https://codeo.tebex.io/)
 - Discord: `codeoscript`
-- Discord Server: `https://discord.gg/codeo`
+- Discord Server: [Codeo Discord](https://discord.gg/codeo)
 
 ---
 
