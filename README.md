@@ -6,9 +6,10 @@ Welcome to my digital workshop. I’m a developer who builds clean, scalable, an
 
 ### 🚀 What I Do
 
-- 🧠 Craft intelligent systems (AI, bots, automation, chat systems)
 - 💻 Build modular scripts for games (FiveM, Roblox, Unity)
-- 🛠️ Develop full-stack web apps (Vue.js, Node.js, MongoDB, Vite)
+- 🛠️ Develop full-stack web apps (Vue.js, Node.js, TailwindCSS, Vite)
+- 💾 Create data-driven systems using SQL (e.g., FiveM scripts with MySQL integration)
+- 🎨 Design UI/UX interfaces and components in Figma
 - 🎧 Integrate multimedia platforms (YouTube, Spotify API, Live Chat Players)
 - 🔒 Focus on performance, protection & clean architecture
 
@@ -16,9 +17,11 @@ Welcome to my digital workshop. I’m a developer who builds clean, scalable, an
 
 ### 💼 Current Projects
 
-- 🎮 **Advanced Roleplay Systems** – Smart scripts & event-driven game logic
-- 🧩 **Modular Chat Framework** – With dynamic content (music, pinning, mentions)
-- 🎙️ **Realtime YouTube Audio Integration** – Inside game or chat systems
+- 🎮 FiveM Roleplay Scripts – Customizable, optimized RP systems
+- ⚙️ Advanced Job Systems – Level-based, skill-driven job mechanics for RP
+- 💾 SQL-Driven Game Logic – Storing & managing player data with MySQL in FiveM
+- 🧩 Modular Game Scripts – Event-driven, scalable game logic
+- 🧪 Web & UI Projects – Figma-powered modern UI panels built with Vue
 
 ---
 
@@ -34,8 +37,9 @@ I focus on **developer experience**, **efficiency**, and **defensive coding**.
 ### 📫 Reach Me
 
 - GitHub: [@codeoscript](https://github.com/codeoscript)
-- Discord: `codeo`
-- Mail: `codeo [at] pm.me` *(serious inquiries only)*
+- Tebex: `https://codeo.tebex.io/`
+- Discord: `codeoscript`
+- Discord Server: `https://discord.gg/codeo`
 
 ---
 
